@@ -21,3 +21,11 @@ ul{
     left: 50%;
     transform: translateX(-50%);
 }
+
+.peu {
+    margin-top: 79vh;
+    padding: 5px;
+    background-color: lightblue;
+    height: 10vh;
+    text-align: center;
+}
